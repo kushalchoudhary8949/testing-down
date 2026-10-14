@@ -1,3 +1,4 @@
+// brew install k6
 import http from 'k6/http';
 import { check } from 'k6';
 
